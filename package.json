@@ -1,0 +1,26 @@
+{
+    "name": "mangeshrex",
+    "displayName": "UwU-theme",
+    "description": "A dark and beautiful looking colorscheme. ",
+    "version": "0.0.1",
+    "publisher": "mangeshrex",
+    "repository": { 
+        "type" : "git",
+        "url" : "https://github.com/Mangeshrex"
+    },
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "UwU Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/UwU Dark-color-theme.json"
+            }
+        ]
+    }
+}
