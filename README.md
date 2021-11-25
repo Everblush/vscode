@@ -10,6 +10,7 @@ This colorscheme is an port of to Visual Studio Code.
 
 ## Screenshot 
 <img src="assets/uwu-code.jpg" alt="uwu-vscode"> 
+<img src="assets/uwucode.png" alt="uwu-theme"> 
 
 ## Contributions 
 -  At this moment UwU colorscheme is at its beginning and needs to be ported to most of the programs used in day to day life. So, if anyone of you feels you can port it to your favourite programs then PR's heartily welcomed.
