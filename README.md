@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="assets/uwuicon.png"><br>
+        <img src="https://raw.githubusercontent.com/Mangeshrex/uwu-vscode-theme/master/assets/uwuicon.png"><br>
         <a href="https://github.com/Mangeshrex/uwu-vscode-theme">UwU Vscode ^-^</a> 
 </p> 
 
