@@ -8,9 +8,7 @@
 </p>
 
 ## Preview 
-<p align="center">
-        <img src="assets/sample.png.png">
-</p>
+- ![sample](https://user-images.githubusercontent.com/82205152/144621523-b0c9512b-2ff6-4a91-b2fb-13e95c05eec4.png)
 
 ## Contributing 
 UwU is a Open Source Project and will love to receive contributions from the community. 
