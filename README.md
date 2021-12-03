@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="uwuicon.png">
+        <img src="assets/uwuicon.png">
         <a href="https://github.com/Mangeshrex/uwu-vscode-theme">UwU Vscode ^-^</a> 
 </p> 
 
@@ -9,7 +9,7 @@
 
 ## Preview 
 <p align="center">
-        <img src="assets/sample.png">
+        <img src="assets/sample.png.png">
 </p>
 
 ## Contributing 
