@@ -9,7 +9,7 @@
 
 ## Preview 
 <p align="center">
-        <img src="assets/sample">
+        <img src="assets/sample.png">
 </p>
 
 ## Contributing 
