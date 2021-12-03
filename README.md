@@ -3,9 +3,7 @@
         <a href="https://github.com/Mangeshrex/uwu-vscode-theme">UwU Vscode ^-^</a> 
 </p> 
 
-<p align="center">
-    <h4>Specially Designed for better coding experience and productivity.<h4> 
-</p>
+<h4 align="center">Specially Designed for better coding experience and productivity.<h4> 
 
 ## Preview 
 <p align="center">
