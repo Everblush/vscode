@@ -1,6 +1,6 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/Mangeshrex/uwu-vscode-theme/master/assets/uwuicon.png" alt="icon/logo"><br>
-        <a href="https://github.com/Mangeshrex/uwu-vscode-theme">UwU Vscode ^-^</a>
+        <a href="https://github.com/Mangeshrex/uwu-vscode-theme">UwU Vscode ^-^</a><br> 
         <img src="https://vsmarketplacebadge.apphb.com/version/mangeshrex.uwu.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=c5c8c9&colorA=131a1c&colorB=58acc4">
         <img src="https://vsmarketplacebadge.apphb.com/installs/mangeshrex.uwu.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=c5c8c9&colorA=131a1c&colorB=58acc4">  
 </p> 
