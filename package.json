@@ -1,12 +1,13 @@
 {
-    "name": "mangeshrex",
-    "displayName": "UwU-theme",
-    "description": "A dark and beautiful looking colorscheme. ",
-    "version": "0.0.1",
+    "name": "uwu",
+    "displayName": "UwU Theme",
+    "description": "A dark and beautiful looking colorscheme.",
+    "version": "0.0.6",
     "publisher": "mangeshrex",
+    "icon": "extension-marketplace-icon.png", 
     "repository": { 
         "type" : "git",
-        "url" : "https://github.com/Mangeshrex"
+        "url" : "https://github.com/Mangeshrex/uwu-vscode-theme"
     },
     "engines": {
         "vscode": "^1.62.0"
