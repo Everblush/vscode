@@ -2,8 +2,9 @@
     "name": "uwu",
     "displayName": "UwU Theme",
     "description": "A dark and beautiful looking colorscheme.",
-    "version": "0.0.6",
+    "version": "0.0.8",
     "publisher": "mangeshrex",
+    "license": "MIT",
     "icon": "extension-marketplace-icon.png", 
     "repository": { 
         "type" : "git",
@@ -11,6 +12,9 @@
     },
     "engines": {
         "vscode": "^1.62.0"
+    },
+    "bugs": {
+        "url": "https://github.com/mangeshrex/uwu-vscode-theme/issues"
     },
     "categories": [
         "Themes"
