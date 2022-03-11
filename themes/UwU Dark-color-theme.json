@@ -141,8 +141,8 @@
 		"titleBar.activeBackground": "#131A1c",
 		"titleBar.inactiveBackground": "#131A1c",
 		
-		"extensionButton.prominentBackground": "#131a1c",
-		"extensionButton.prominentHoverBackground": "#53a7bf",
+		"extensionButton.prominentBackground": "#58acc4",
+		"extensionButton.prominentHoverBackground": "#58acc4",
 		"extensionButton.prominentForeground": "#131a1c",
 		
 		"pickerGroup.foreground": "#c26f6f",
@@ -153,7 +153,7 @@
 		"terminal.ansiBrightCyan": "#89DFD1",
 		"terminal.ansiBrightGreen": "#8dc776",
 		"terminal.ansiBrightMagenta": "#bb8fe5",
-		"terminal.ansiBrightRed": "#fe4450",
+		"terminal.ansiBrightRed": "#f65b5b",
 		"terminal.ansiBrightYellow": "#fede5d",
 		"terminal.ansiCyan": "#89DFD1",
 		"terminal.ansiGreen": "#8dc776",
@@ -168,7 +168,7 @@
 		"walkThrough.embeddedEditorBackground": "#131A1c",
 		
 		"gitDecoration.modifiedResourceForeground": "#bb8fe5",
-		"gitDecoration.deletedResourceForeground": "#776665",
+		"gitDecoration.deletedResourceForeground": "#f65b5b",
 		"gitDecoration.addedResourceForeground": "#53A7BF",
 		"gitDecoration.untrackedResourceForeground": "#6CbAD1",
 		"gitDecoration.ignoredResourceForeground": "#bfbfbf",
@@ -363,7 +363,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#53A7BF"
+				"foreground": "#b185db"
 			}
 		},
 		{
@@ -422,7 +422,7 @@
 				"text.html.basic entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#F3C562"
+				"foreground": "#c5c8c9"
 			}
 		},
 		{
@@ -431,7 +431,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#F3C562"
+				"foreground": "#bb84e5"
 			}
 		},
 		{
@@ -440,7 +440,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#58acc4"
+				"foreground": "#b185db"
 			}
 		},
 		{

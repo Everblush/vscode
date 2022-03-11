@@ -1,31 +1,37 @@
 {
-    "name": "uwu",
-    "displayName": "UwU Theme",
-    "description": "A dark and beautiful looking colorscheme.",
-    "version": "0.0.8",
-    "publisher": "mangeshrex",
-    "license": "MIT",
-    "icon": "extension-marketplace-icon.png", 
-    "repository": { 
-        "type" : "git",
-        "url" : "https://github.com/Mangeshrex/uwu-vscode-theme"
-    },
-    "engines": {
-        "vscode": "^1.62.0"
-    },
-    "bugs": {
-        "url": "https://github.com/mangeshrex/uwu-vscode-theme/issues"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "UwU Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/UwU Dark-color-theme.json"
-            }
-        ]
-    }
+	"name": "uwu",
+	"displayName": "UwU Theme",
+	"description": "A dark and beautiful looking colorscheme.",
+	"version": "0.0.8",
+	"publisher": "mangeshrex",
+	"license": "MIT",
+	"icon": "extension-marketplace-icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Mangeshrex/uwu-vscode-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/Mangeshrex/uwu-vscode-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "UwU Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/UwU Dark-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "3a8740af-c55d-4aa8-984d-463016244774",
+		"publisherDisplayName": "mangeshrex",
+		"publisherId": "30851b8a-af21-402c-a145-c2d51555d730",
+		"isPreReleaseVersion": false
+	}
 }
