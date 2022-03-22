@@ -148,6 +148,8 @@
 		"pickerGroup.foreground": "#c26f6f",
 		
 		"terminal.foreground": "#c5c8c9",
+		"terminal.ansiBlack": "#22292B",
+		"terminal.ansiBrightBlack": "#22292B",
 		"terminal.ansiBlue": "#53A7BF",
 		"terminal.ansiBrightBlue": "#6CBAD1",
 		"terminal.ansiBrightCyan": "#89DFD1",
