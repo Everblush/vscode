@@ -1,26 +1,23 @@
-<p align="center">
-        <img src="https://raw.githubusercontent.com/Mangeshrex/uwu-vscode-theme/master/assets/uwuicon.png" alt="icon/logo"><br>
-        <a href="https://github.com/Mangeshrex/uwu-vscode-theme">UwU Vscode ^-^</a><br> 
-        <img src="https://vsmarketplacebadge.apphb.com/version/mangeshrex.uwu.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=c5c8c9&colorA=131a1c&colorB=58acc4">
-        <img src="https://vsmarketplacebadge.apphb.com/installs/mangeshrex.uwu.svg?style=flat-square&label=Installations&logo=visual-studio-code&logoColor=c5c8c9&colorA=131a1c&colorB=58acc4">  
+<h2 align="center">Everblush Visual Studio Code</h2>
+
+<p>
+<h4 align="center"> <i>Everblush theme for Visual Studio Code</i> </h4>
 </p> 
 
-<h4 align="center">Specially Designed for better coding experience and productivity.<h4> 
-
-## Preview 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/Mangeshrex/uwu-vscode-theme/master/assets/sample.png" alt="sample image">
+<p align="center"> 
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
 </p>
 
-
-## Contributing 
-UwU is a Open Source Project and will love to receive contributions from the community. 
-Whoever, wants to contribute to this Project can simply fork the repository and create a issue before for letting us know the changes into the colorscheme. 
-
-UwU is not very famous or known to the whole coding community, but yes with the help of user's and community it can for sure. 
-
-<p align="center">
-        <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=5b98a9&labelColor=1b2224&style=for-the-badge">
+<p align="center"> 
+<img src="./assets/vscode.png"
 </p>
 
+## Installation
+- git clone this repository anywhere on your $HOME.
+- Add the cloned directory to ```~/.vscode/extensions```. 
+- Or ```download the everblush.tar.gz``` and unzip it to ```~/.vscode/extensions```
 
+The theme would be soon updated on marketplace too. 
+
+# Credits 💝
+- [nautilor](https://github.com/nautilor)
