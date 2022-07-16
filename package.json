@@ -22,7 +22,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "UwU Dark",
+				"label": "Everblush",
 				"uiTheme": "vs-dark",
 				"path": "./themes/everblush-color-theme.json"
 			}
