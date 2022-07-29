@@ -1,11 +1,12 @@
 <h2 align="center">Everblush Visual Studio Code</h2>
-
 <p>
 <h4 align="center"> <i>Everblush theme for Visual Studio Code</i> </h4>
 </p> 
 
-<p align="center"> 
-<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=22292b&style=for-the-badge">
+<p align="center">
+<img src="https://img.shields.io/github/stars/Mangeshrex/everblush.vim?color=e5c76b&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Mangeshrex/everblush.vim?color=67b0e8&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/Everblush/everblush.vim?color=e74c4c&labelColor=1e2528&style=for-the-badge"> 
 </p>
 
 <p align="center"> 
@@ -21,3 +22,4 @@ The theme would be soon updated on marketplace too.
 
 # Credits 💝
 - [nautilor](https://github.com/nautilor)
+- [samuel](https://github.com/samuelnihbos)
