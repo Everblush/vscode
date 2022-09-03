@@ -9,9 +9,9 @@
 <img src="https://img.shields.io/github/forks/Everblush/vscode?color=e74c4c&labelColor=1e2528&style=for-the-badge"> 
 </p>
 
-<p align="center"> 
-<a href="https://raw.githubusercontent.com/Everblush/assets/main/vscode/preview.png"/>
-</p>
+<div align="center"> 
+<img src="https://raw.githubusercontent.com/Everblush/assets/main/vscode/preview.png"/>
+</div>
 
 ## Installation
 - git clone this repository anywhere on your $HOME.
