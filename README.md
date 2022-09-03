@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-<img src="./assets/vscode.png"
+<a href="https://raw.githubusercontent.com/Everblush/assets/main/vscode/preview.png"/>
 </p>
 
 ## Installation
