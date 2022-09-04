@@ -14,6 +14,11 @@
 </div>
 
 ## Installation
+### Extensions
+- **The VSCODE Extensions is LIVE**. 
+- Search "Everblush Theme" in your extensions tab and click install. 
+
+### Manual Install
 - git clone this repository anywhere on your $HOME.
 - Add the cloned directory to ```~/.vscode/extensions```. 
 - Or ```download the everblush.tar.gz``` and unzip it to ```~/.vscode/extensions```
